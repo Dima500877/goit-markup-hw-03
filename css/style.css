@@ -4,11 +4,13 @@ body{
     background-color: #FFFFFF;
 
 }
-.first-header{
+.header-class{
     border-bottom: 1px solid #e7e9fc;
+}
+.container{
     display: flex;
     width: 1158px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0 15px;
 }
 .first-nav{
@@ -17,6 +19,7 @@ body{
 }
 .nav-logo{
     padding-right: 76px;
+    margin-right: 76px;
 }
 .second-ul{
     display: flex;
@@ -28,7 +31,6 @@ ul{
    .first-ul{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
    } 
 
 .title-one{
@@ -144,6 +146,7 @@ ul{
     letter-spacing: 0.02em;
     color: #2e2f42;
     display: flex;
+    padding: 24px 0;
 }
 .page-li{
     background-color: #FFFFFF;
