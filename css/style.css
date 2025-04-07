@@ -85,6 +85,7 @@ ul{
 
 .logo-title {
     color: #f4f4fd;
+
 }
 .section-four{
     padding: 120px 0 120px 0;
@@ -254,10 +255,12 @@ ul{
     padding: 120px 0;
 }
 
-.footer-logo{
-    display: inline-block;
+.footer-logo .logo-title{
     margin-bottom: 16px;
+    display: inline-block;
+
 }
+
 img{
     display: block;
 }
