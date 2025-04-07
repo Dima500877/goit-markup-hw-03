@@ -12,6 +12,9 @@ body{
     margin: 0 auto;
     padding: 0 15px;
 }
+.header-class .container{
+    display: flex;
+}
 .first-nav{
     display: flex;
     align-items: center;
@@ -21,7 +24,6 @@ body{
     margin-right: 76px;
 }
 .second-ul{
-    display: flex;
     gap: 40px;
 }
 ul{
