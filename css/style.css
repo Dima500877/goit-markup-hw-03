@@ -48,9 +48,12 @@ ul{
     background-color: #F4F4FD;
 }
 .footer{
+    padding: 100px 0;
+
     background-color: #2E2F42;
 }
 .title-footer{
+    max-width: 264px;
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -252,4 +255,8 @@ ul{
 }
 a{
     text-decoration: none;
+}
+.footer-logo{
+    display: inline-block;
+    margin-bottom: 16px;
 }
